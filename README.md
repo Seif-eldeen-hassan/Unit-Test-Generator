@@ -36,7 +36,7 @@ A specialized Command-Line Interface (CLI) tool designed to automatically genera
 3. **Set up the Environment Variables:**
    [Create a .env file in the root directory of the project and add your GitHub token] 
    ```bash
-   GITHUB_TOKEN = your_token_here
+   GITHUB_TOKEN=your_token_here
 
 ## 5) Usage
 1. **Run the tool via the command line by passing the path to a Python file that contains a single function:**
