@@ -26,7 +26,7 @@ A specialized Command-Line Interface (CLI) tool designed to automatically genera
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Seif-eldeen-hassan/Unit-Test-Generator.git>
    cd <repository-folder>
    
 2. **Install the required dependencies:**
